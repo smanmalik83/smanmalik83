@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smanmalik83
+- 👋 Hi, I’m Suleman Abdulmalik @smanmalik83
 - 👀 I’m interested in Exploratory Data Analysis (EDA) and Machine learning
 - 🌱 I’m currently learning SQL, Power BI, Tableau, Python, google sheet & bigquery
 - 💞️ I’m looking to collaborate on any project of EDA and Machine learning
